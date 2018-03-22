@@ -9,7 +9,7 @@ h1 a {
     font-family: 'sans-serif';
 }
 .page-header {
-    background-color: #2A096E;
+    background-color: #B4C738;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -29,7 +29,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #B4C738;
 }
 
 .save {
@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #B4C738;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
